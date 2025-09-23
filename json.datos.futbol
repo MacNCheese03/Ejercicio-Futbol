@@ -1,0 +1,32 @@
+[
+  {
+    "chileno": "Alexis Sánchez",
+    "goles": 51,
+    "partidos": 166,
+    "foto": 
+  },
+  {
+    "chileno": "Eduardo Vargas",
+    "goles": 45,
+    "partidos": 119,
+    "foto": 
+  },
+  {
+    "chileno": "Marcelo Salas",
+    "goles": 37,
+    "partidos": 70,
+    "foto": 
+  },
+  {
+    "chileno": "Iván Zamorano",
+    "goles": 34,
+    "partidos": 69,
+    "foto": 
+  },
+  {
+    "chileno": "Arturo Vidal",
+    "goles": 34,
+    "partidos": 144,
+    "foto": 
+  }
+]

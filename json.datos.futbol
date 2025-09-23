@@ -3,30 +3,29 @@
     "chileno": "Alexis Sánchez",
     "goles": 51,
     "partidos": 166,
-    "foto": 
-  },
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/fotos/ALEXIS.jpg",},
   {
     "chileno": "Eduardo Vargas",
     "goles": 45,
     "partidos": 119,
-    "foto": 
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/fotos/VARGAS.jpg",
   },
   {
     "chileno": "Marcelo Salas",
     "goles": 37,
     "partidos": 70,
-    "foto": 
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/fotos/SALAS.jpg"
   },
   {
     "chileno": "Iván Zamorano",
     "goles": 34,
     "partidos": 69,
-    "foto": 
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/fotos/Zamorano.jpg",
   },
   {
     "chileno": "Arturo Vidal",
     "goles": 34,
     "partidos": 144,
-    "foto": 
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/fotos/vidal.jpg",
   }
 ]

@@ -28,5 +28,36 @@
     "goles": 34,
     "partidos": 144,
     "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/vidal.jpg"
+  },
+  
+  "chileno": "Carlos Caszely",
+    "goles": 29,
+    "partidos": 49,
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/Carlos Caszely.jpg"
+  },
+  {
+    "chileno": "Humberto Suazo",
+    "goles": 21,
+    "partidos": 60,
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/Humberto Suazo.jpg"
+  },
+  {
+    "chileno": "Jorge Aravena",
+    "goles": 22,
+    "partidos": 37,
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/Jorge Aravena.jpg"
+  },
+  {
+     "chileno": "Juan Carlos Letelier",
+    "goles": 21,
+    "partidos": 60,
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/Juan Carlos Letelier.jpg"
+  },
+  {
+    "chileno": "Leonel Sánchez",
+    "goles": 22,
+    "partidos": 37,
+    "foto": "https://macncheese03.github.io/Ejercicio-Futbol/foto/Leonel Sánchez.jpg"
   }
+  {
 ]
